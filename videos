@@ -1,0 +1,75 @@
+<html>
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+   <style>
+   
+   
+	<style type="Navtop" >
+	ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	}
+
+	a:link,a:visited{
+	display:block;
+	front-weight:bold;
+	Color:silver;
+	width:100%;
+	text-align:center;
+	padding:4px;
+	text-transform:uppercase;
+	text-decoration:true;
+	}	
+
+	a:hover,a:active{
+	background-color:turquoise
+	}
+	li{
+	float: middle;}
+	</style>   
+
+
+
+
+
+
+
+<ul>
+  <li><a href="About V1G.asp">about v1g</a></li>
+ <li><a href="merchandise .html">merchandise</a></li>
+ <li><a href="games.asp">games</a></li>
+ <li><a href="V1G'S Favourite music.asp">V1G'S Favourite music</a></li>
+</ul>
+<head>
+<body>
+<font size="4"> <font color="white">official instagram account=real.V1G</font>
+<body bgcolor="#3498db" text="#0000cc" background="https://www.google.co.uk/search?q=gaming+pictures&safe=strict&espv=2&biw=1040&bih=394&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwi5iMzugqnSAhWEJsAKHVFHCt4Q_AUIBigB#imgrc=90AAtEqfVeLpiM:">
+<font size="15">V1G'S website</font>
+<head>
+<h2 align-"centre">Second page</h2>
+</head>
+<body>
+<font color="white">His channel has gaming video but his other has vlogs and other adventurous,this page will include V1G's videos.
+ <h1 align="right"><iframe width="300" height="250" sref="<iframe width="640" height="360" src="https://www.youtube.com/embed/L75aXyXA3XQ" frameborder="0" allowfullscreen></iframe></iframe</h1>
+<div class="topnav" id="myTopnav">
+
+<h1 align="right"><iframe width="300" height="250" src="https://www.youtube.com/embed/tpBFg6EGgBw" frameborder="0" allowfullscreen></iframe></h1>
+<h1 align="right"><iframe width="300" height="250" src="https://www.youtube.com/embed/EIfSNFVpfV0" frameborder="0" allowfullscreen></iframe></h1>  
+<h1 align="right"><iframe width="300" height="250" src="https://www.youtube.com/embed/UBmZt-PftUc" frameborder="0" allowfullscreen></iframe></h1>  
+<h1 align="right"><iframe width="300" height="250" src="https://www.youtube.com/embed/NFe2ZDaS46o" frameborder="0" allowfullscreen></iframe</h1>  
+<h1 align="right"><iframe width="300" height="250" src="https://www.youtube.com/embed/qAz6OHXp9TA" frameborder="0" allowfullscreen></iframe</h1>
+</div>
+
+
+</body>
+
+
+
+
+
+
+</html>
